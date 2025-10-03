@@ -1,0 +1,1 @@
+from src.sсript import scan_files, save_to_csv
